@@ -8,4 +8,5 @@ spam asdf 10
 ```
 
 Dependencies: the standard library
+
 Notes: The percentage indicator can be super messed up in some terminals, but there's no good fix that I could find

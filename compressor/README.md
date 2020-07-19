@@ -8,4 +8,5 @@ Linux:
 ```
 
 Dependencies: zlib, the standard library
+
 Notes: Only has a noticable effect on files ~2MB or larger in size

@@ -6,4 +6,5 @@ Linux:
 ```
 
 Dependencies: crypt, the standard library
+
 Notes: Only works on Linux, and not all Linux distros (Android being the only one I've tested it with that didn't work)

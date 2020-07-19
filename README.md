@@ -1,15 +1,7 @@
 # hax
-random stuff i make for the purposes of annoying people on my friends' discord servers and hacking
+random stuff i make for the purposes of education, annoying people on my friends' discord servers, and hacking
 
-### how to use the spam generator (spam.exe and related)
-Compile the code in spam.c (if you're an epic hacker person) or download spam.exe, spam-osx, or spam-linux. It's a command line program so you run it in cmd.exe or Terminal, or, if you're on Linux, some kind of shell (i.e. bash, zsh, etc). If you're on Mac/Linux, invoke it with `./spam-osx` or `./spam-linux`. On Windows, its' just `spam`. Here's some more detailed examples:
+### using the programs available here
+Basically you just have to download a precompiled (usable for noobs) program for your operating system (I promise they aren't dangerous), or if you're capable, compile the source code for it (dependencies and notes for the programs can be found below the instructions for using them).
 
-Windows:
-```batch
-; put the message 'asdf' in file.txt 10 times
-spam asdf 10 file.txt
-; you could also do it like this if you don't want it in a file
-spam asdf 10
-```
-
-It's more or less the same for other OSes (Mac/Linux)
+Then you can run it. On Mac/Linux, use './<program name>'. On Windows it's the same, but you really only need to type the name of the program on Windows. After you type the command, press enter. If you can't figure out how to use them from the examples, all the programs will print a help message in the event of invalid usage (at least I hope they will). They also print a help message if you use the `-h` or `--help` options with them for the most part.

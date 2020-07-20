@@ -76,7 +76,7 @@ int main(int argc, char *argv[])
 			fflush(stdout);
 		}
 		else {
-			printf("%s\n", spambuf);
+			printf("%s", spambuf);
 		}
 	}
 
